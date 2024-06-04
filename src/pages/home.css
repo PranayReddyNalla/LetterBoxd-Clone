@@ -1,0 +1,29 @@
+img {
+    width : 75%;
+    height : 400px
+}
+
+.data { 
+    font-size: 40px;
+    color: #ede9e9;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-family: Georgia, serif;
+}
+
+.Intro button {
+    background: #00ac1c;
+    color: #fff;
+}
+.multiple-platforms-data{
+    font-size: 20px;
+    color: #fbf6f6;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-family: Georgia, serif;
+
+}
